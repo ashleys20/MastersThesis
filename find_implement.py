@@ -61,7 +61,7 @@ def detection(frame_left, frame_right):
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
-
+    return circle_left, circle_right
 
 
 def hsv_filter_yellow(frame):

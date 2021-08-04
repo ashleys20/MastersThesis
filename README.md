@@ -1,4 +1,4 @@
-# Masters Thesis
+# Master's Thesis
 
 Code base for a master's thesis of a computer engineering student in the Bradley Department of Electrical and Computer Engineering at Virginia Tech.
 
